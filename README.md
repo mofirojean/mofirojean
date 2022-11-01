@@ -15,10 +15,30 @@
 
 <div align="center">
   <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'M Called Mofiro Jean
 </h1>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cameroon.
+
+- :telescope: I’m currently working on frontend developement qith Angular and Typescript 
+
+- :seedling: Exploring data structures and algorithms.
+
+- :zap: In my free time, I create arts content, listen to music and play video games.
+
+- :mailbox:How to reach me: mofirojean@gmail.com
+
+
 
 <!--
 **mofirojean/mofirojean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
