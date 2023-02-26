@@ -30,7 +30,7 @@
 ### :man_technologist: About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cameroon.
 
-- :telescope: I’m currently working on frontend developement qith Angular and Typescript 
+- :telescope: I’m currently working on frontend developement with Angular and Typescript 
 
 - :seedling: Exploring data structures and algorithms.
 
