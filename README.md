@@ -1,17 +1,9 @@
-<!--- <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mofirojean">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/JeanMofiro">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div> -->
 <div align="center">
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'M Called Mofiro Jean
-</h1>
+  </h1>
 </div>
 
 <!--- <div align="center">
@@ -32,6 +24,15 @@ I am an Angular Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :mailbox:How to reach me: mofirojean@gmail.com
 
 ---
+### 🔗 Check Out My Social Media Handles, Lets Connect :
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/mofirojean">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/JeanMofiro">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -53,7 +54,7 @@ I am an Angular Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mofirojean&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mofirojean&show_icons=true&theme=radical)](https://github.com/mofirojean/github-readme-stats)
+[![Mofiro Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=mofirojean&show_icons=true&theme=radical)](https://github.com/mofirojean/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofirojean&layout=compact)](https://github.com/mofirojean/github-readme-stats)
 
 
